@@ -1,2 +1,3 @@
 # Computer_Vision
-The CV courses for the 113th academic year, first semester, NYCU
+Computer Vision at National Yang Ming Chiao Tung University
+Lecturer: Prof. Wei-Chen Chiu
