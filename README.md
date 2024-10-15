@@ -2,7 +2,7 @@
 ### Computer Vision at National Yang Ming Chiao Tung University
 Lecturer: [Prof. Wei-Chen Chiu](https://walonchiu.github.io/)
 
-### Assignments
+### Assignments:
 - HW1: Camera Calibration
 
   - Capture chessboard images by our own smart phone (Remember to close the auto focus function of camera, and set a fix focus)
