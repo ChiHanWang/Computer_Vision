@@ -1,6 +1,6 @@
 # Computer_Vision
 ### Computer Vision at National Yang Ming Chiao Tung University
-Lecturer: [Prof. Wei-Chen Chiu](https://walonchiu.github.io/)
+Lecturer: Prof. [Wei-Chen Chiu](https://walonchiu.github.io/)
 
 ### Assignments:
 - HW1: Camera Calibration
